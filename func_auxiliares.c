@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "fun_auxiliares.h"
 
 void moveParam(unsigned char *codigo, int srcParam, int destParam, int *pos)
 {
